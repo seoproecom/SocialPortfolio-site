@@ -1,0 +1,11 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+import './index.css';
+import './refinements.css';
+import './studio-theme.css';
+import './living-studio.css';
+import './post-sphere.css';
+import './hero-ring.css';
+import './portfolio-system.css';
+ReactDOM.createRoot(document.getElementById('root')!).render(<React.StrictMode><App /></React.StrictMode>);

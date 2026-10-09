@@ -1,0 +1,140 @@
+[
+  {
+    "key": "pasq",
+    "title": "PASQ \u2014 everyday rituals",
+    "label": "SKINCARE / PRODUCT IMAGERY",
+    "category": "product",
+    "ids": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "cover": 4,
+    "tone": "sand",
+    "description": "Warm light, quiet routines, and a skincare product placed in everyday moments. A collection of product and lifestyle imagery for a cohesive social presence.",
+    "brief": "Build a visual world around simple daily skincare rituals.",
+    "approach": "Combine product close-ups, lived-in settings, and consistent natural lighting."
+  },
+  {
+    "key": "calipride",
+    "title": "Cali Pride \u2014 West Coast energy",
+    "label": "APPAREL / SOCIAL CAMPAIGN",
+    "category": "campaign",
+    "ids": [
+      31,
+      32,
+      33
+    ],
+    "cover": 31,
+    "tone": "coral",
+    "description": "An expressive apparel series with bold headlines, styled products, and a distinctly West Coast attitude.",
+    "brief": "Give a streetwear collection a recognisable voice across the feed.",
+    "approach": "Use energetic layouts, product-led compositions, and a consistent campaign vocabulary."
+  },
+  {
+    "key": "novabasi",
+    "title": "Nova Basi \u2014 small, meaningful things",
+    "label": "LIFESTYLE / SOCIAL DESIGN",
+    "category": "social",
+    "ids": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "cover": 14,
+    "tone": "butter",
+    "description": "An editorial social series connecting books, handmade objects, and everyday rituals through a warm, considered visual language.",
+    "brief": "Bring a varied lifestyle collection together in one recognisable feed.",
+    "approach": "Pair tactile product scenes with understated typography and a consistent warm palette."
+  },
+  {
+    "key": "eden",
+    "title": "EDEN \u2014 a world within",
+    "label": "BOOKS / SOCIAL CAMPAIGN",
+    "category": "campaign",
+    "ids": [
+      16,
+      17,
+      23,
+      24,
+      25,
+      29,
+      30
+    ],
+    "cover": 23,
+    "tone": "sage",
+    "description": "A book-focused social collection that moves between imaginative worlds, reflective questions, and editorial product compositions.",
+    "brief": "Introduce a book series through visual storytelling and conversational social posts.",
+    "approach": "Use atmospheric scenes, distinct book worlds, and prompts that invite readers into the story."
+  },
+  {
+    "key": "ian",
+    "title": "Ian Escoto \u2014 art at home",
+    "label": "FINE ART / SOCIAL CAMPAIGN",
+    "category": "campaign",
+    "ids": [
+      1,
+      2,
+      3
+    ],
+    "cover": 2,
+    "tone": "wine",
+    "description": "A fine-art social series that brings portraits and original artwork into personal spaces, balancing close detail with an inviting editorial mood.",
+    "brief": "Show artwork in ways that feel personal and at home in the feed.",
+    "approach": "Combine artwork details, interior styling, and concise, evocative headlines."
+  },
+  {
+    "key": "holos",
+    "title": "HOLOS \u2014 on the course",
+    "label": "GOLF / PRODUCT IMAGERY",
+    "category": "product",
+    "ids": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "cover": 21,
+    "tone": "sky",
+    "description": "A lifestyle-led product collection set on the golf course, using warm evening light and a sequence of natural product moments.",
+    "brief": "Place a product in the context of its audience\u2019s everyday interests.",
+    "approach": "Build a sequence of portrait-format scenes around a consistent setting, wardrobe, and lighting."
+  },
+  {
+    "key": "fashion",
+    "title": "Fashion \u2014 a different perspective",
+    "label": "FASHION / VISUAL EXPLORATION",
+    "category": "social",
+    "ids": [
+      22,
+      27,
+      28
+    ],
+    "cover": 22,
+    "tone": "mint",
+    "description": "A collection of fashion imagery exploring sculptural styling, composed silhouettes, and a soft green colour story.",
+    "brief": "Explore a memorable fashion direction suited to social and editorial formats.",
+    "approach": "Use deliberate styling, controlled palettes, and strong focal points."
+  },
+  {
+    "key": "jasper",
+    "title": "Jasper Tarot \u2014 look a little closer",
+    "label": "TAROT / SOCIAL CAMPAIGN",
+    "category": "campaign",
+    "ids": [
+      26,
+      34
+    ],
+    "cover": 34,
+    "tone": "tangerine",
+    "description": "Two contrasting tarot compositions: a quiet product scene and an expressive conversation starter, each giving the cards room to tell a story.",
+    "brief": "Turn a tarot product into imagery that invites curiosity and participation.",
+    "approach": "Balance tactile product presentation with bold interactive post design."
+  }
+]
